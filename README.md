@@ -10,6 +10,8 @@
   
   ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![AMAZON EC2](https://img.shields.io/badge/amazon_ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sGom&layout=donut)](https://github.com/sGom/github-readme-stats)
   
   ![sGom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sGom&show_icons=true&theme=radical)
 </div>
