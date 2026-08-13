@@ -27,11 +27,11 @@
 ## ✍️ 최신 글
 
 <!-- BLOG-POST-LIST:START -->
+- [힙(Heap) — 배열 하나로 우선순위를 유지하는 원리](https://sgom.github.io/posts/heap-basics/) · 2026-08-13
+- [Kotlin 애노테이션 use-site target](https://sgom.github.io/posts/kotlin-annotation-use-site-target/) · 2026-08-13
+- [Kotlin 프로퍼티가 여러 JVM 요소로 컴파일되는 이유](https://sgom.github.io/posts/kotlin-annotation-use-site-target-deep-dive/) · 2026-08-13
 - [격리 수준과 세 가지 이상 현상](https://sgom.github.io/posts/isolation-levels-and-anomalies/) · 2026-08-09
 - [행 추정치 1이 조인 플랜을 뒤집는 과정](https://sgom.github.io/posts/planner-row-estimation/) · 2026-08-09
-- [실행계획 읽기 — 스캔, 조인, rows와 loops](https://sgom.github.io/posts/query-plan-basics/) · 2026-08-09
-- [배포할 때마다 목록 조회가 120초 걸렸다](https://sgom.github.io/posts/slow-query-after-restart/) · 2026-08-09
-- [Spring AOP 프록시](https://sgom.github.io/posts/spring-aop-proxy/) · 2026-08-09
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
