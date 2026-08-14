@@ -27,11 +27,11 @@
 ## ✍️ 최신 글
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin List.contains를 Set으로 바꾸면 빨라지는 이유](https://sgom.github.io/posts/kotlin-list-contains-vs-set-contains/) · 2026-08-14
 - [힙(Heap) — 배열 하나로 우선순위를 유지하는 원리](https://sgom.github.io/posts/heap-basics/) · 2026-08-13
 - [Kotlin 애노테이션 use-site target](https://sgom.github.io/posts/kotlin-annotation-use-site-target/) · 2026-08-13
 - [Kotlin 프로퍼티가 여러 JVM 요소로 컴파일되는 이유](https://sgom.github.io/posts/kotlin-annotation-use-site-target-deep-dive/) · 2026-08-13
 - [격리 수준과 세 가지 이상 현상](https://sgom.github.io/posts/isolation-levels-and-anomalies/) · 2026-08-09
-- [행 추정치 1이 조인 플랜을 뒤집는 과정](https://sgom.github.io/posts/planner-row-estimation/) · 2026-08-09
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
