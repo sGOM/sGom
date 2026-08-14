@@ -27,11 +27,11 @@
 ## ✍️ 최신 글
 
 <!-- BLOG-POST-LIST:START -->
+- [계층 구조를 부모 참조로 저장하는 Adjacency List](https://sgom.github.io/posts/adjacency-list/) · 2026-08-14
+- [계층 구조를 저장하는 Closure Table](https://sgom.github.io/posts/closure-table/) · 2026-08-14
 - [Kotlin List.contains를 Set으로 바꾸면 빨라지는 이유](https://sgom.github.io/posts/kotlin-list-contains-vs-set-contains/) · 2026-08-14
-- [힙(Heap) — 배열 하나로 우선순위를 유지하는 원리](https://sgom.github.io/posts/heap-basics/) · 2026-08-13
-- [Kotlin 애노테이션 use-site target](https://sgom.github.io/posts/kotlin-annotation-use-site-target/) · 2026-08-13
-- [Kotlin 프로퍼티가 여러 JVM 요소로 컴파일되는 이유](https://sgom.github.io/posts/kotlin-annotation-use-site-target-deep-dive/) · 2026-08-13
-- [격리 수준과 세 가지 이상 현상](https://sgom.github.io/posts/isolation-levels-and-anomalies/) · 2026-08-09
+- [계층 구조를 숫자 구간으로 저장하는 Nested Set](https://sgom.github.io/posts/nested-set/) · 2026-08-14
+- [계층 구조를 문자열로 저장하는 Path Enumeration](https://sgom.github.io/posts/path-enumeration/) · 2026-08-14
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
