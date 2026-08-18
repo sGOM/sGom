@@ -27,11 +27,11 @@
 ## ✍️ 최신 글
 
 <!-- BLOG-POST-LIST:START -->
+- [JVM GC 파고들기 — 컬렉터마다 다르게 도는 이유](https://sgom.github.io/posts/jvm-gc/) · 2026-08-15
+- [코틀린 코루틴 기본 개념 정리](https://sgom.github.io/posts/kotlin-coroutine-basics/) · 2026-08-15
+- [코틀린 suspend 함수는 스레드 없이 어떻게 중단하고 재개하는가](https://sgom.github.io/posts/kotlin-coroutine-basics-deep-dive/) · 2026-08-15
 - [계층 구조를 부모 참조로 저장하는 Adjacency List](https://sgom.github.io/posts/adjacency-list/) · 2026-08-14
 - [계층 구조를 저장하는 Closure Table](https://sgom.github.io/posts/closure-table/) · 2026-08-14
-- [Kotlin List.contains를 Set으로 바꾸면 빨라지는 이유](https://sgom.github.io/posts/kotlin-list-contains-vs-set-contains/) · 2026-08-14
-- [계층 구조를 숫자 구간으로 저장하는 Nested Set](https://sgom.github.io/posts/nested-set/) · 2026-08-14
-- [계층 구조를 문자열로 저장하는 Path Enumeration](https://sgom.github.io/posts/path-enumeration/) · 2026-08-14
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
