@@ -27,11 +27,11 @@
 ## ✍️ 최신 글
 
 <!-- BLOG-POST-LIST:START -->
+- [리팩토링의 경계 — 무엇까지가 리팩토링인가](https://sgom.github.io/posts/refactoring-basics/) · 2026-08-19
 - [실행계획 노드가 나타나는 조건 — 스캔·조인·정렬 예시로 확인](https://sgom.github.io/posts/query-plan-node-triggers/) · 2026-08-18
 - [JVM GC 파고들기 — 컬렉터마다 다르게 도는 이유](https://sgom.github.io/posts/jvm-gc/) · 2026-08-15
 - [코틀린 코루틴 기본 개념 정리](https://sgom.github.io/posts/kotlin-coroutine-basics/) · 2026-08-15
 - [코틀린 suspend 함수는 스레드 없이 어떻게 중단하고 재개하는가](https://sgom.github.io/posts/kotlin-coroutine-basics-deep-dive/) · 2026-08-15
-- [계층 구조를 부모 참조로 저장하는 Adjacency List](https://sgom.github.io/posts/adjacency-list/) · 2026-08-14
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
