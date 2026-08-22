@@ -27,11 +27,11 @@
 ## ✍️ 최신 글
 
 <!-- BLOG-POST-LIST:START -->
+- [대역폭은 왜 정보량인가 — 주파수를 나누는 이유와 나눈 대가](https://sgom.github.io/posts/bandwidth-and-spectrum-division/) · 2026-08-20
 - [git worktree로 브랜치를 디렉터리째 나눠 쓰기](https://sgom.github.io/posts/git-worktree/) · 2026-08-20
 - [MyBatis의](https://sgom.github.io/posts/mybatis-parameter-binding/) · 2026-08-20
 - [Spring과 Spring Boot의 차이](https://sgom.github.io/posts/spring-vs-spring-boot/) · 2026-08-20
 - [리팩토링의 경계 — 무엇까지가 리팩토링인가](https://sgom.github.io/posts/refactoring-basics/) · 2026-08-19
-- [실행계획 노드가 나타나는 조건 — 스캔·조인·정렬 예시로 확인](https://sgom.github.io/posts/query-plan-node-triggers/) · 2026-08-18
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
